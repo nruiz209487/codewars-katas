@@ -1,0 +1,15 @@
+# Ignorar archivos sueltos en raíz
+file.js
+file.py
+
+# Ignorar cualquier archivo temporal o de sistema común
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Ignorar node_modules si tienes alguno (JS)
+node_modules/
+
+# Ignorar cualquier archivo generado por el editor (VSCode)
+.vscode/
